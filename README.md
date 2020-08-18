@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+  <a href="https://github.com/Dani-ms/artspaper">
+    <img width="55%" align="right" alt="Daniela github stats" src="https://github-readme-stats.vercel.app/api?username=Dani-ms&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -65,7 +65,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 </p>
 
 <!-- Your hits or visitors
@@ -73,10 +74,10 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
+  <a href="http://hits.dwyl.com/Dani-ms/Dani-ms" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/Dani-ms/Dani-ms.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Dani-ms.Dani-ms" />
 </p>
 
 
