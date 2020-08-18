@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 I’m currently working on Sysmatch;
 - 🌱 I’m currently learning ReactJs and Outsystems; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
+- 👯 I’m looking to collaborate on  🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Design;
@@ -65,7 +65,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
@@ -86,8 +85,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  <a href="https://github.com/Dani-ms/artspaper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dani-ms&repo=artspaper" />
   </a>
   <a href="https://github.com/onimur/circleci-github-changelog-generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
@@ -95,4 +94,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
+⭐️ From [Daniela Moles](https://github.com/Dani-ms/artspaper)
