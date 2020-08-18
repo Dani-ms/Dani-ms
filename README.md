@@ -89,10 +89,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="https://github.com/Dani-ms/artspaper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dani-ms&repo=artspaper" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
+  
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+<!-- This readme was created by Murillo Comino - https://github.com/Dani-ms -->
 ⭐️ From [Daniela Moles](https://github.com/Dani-ms/artspaper)
