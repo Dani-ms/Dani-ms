@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Design;
-- 📫 How to reach me: danielams.designer@gmail.com;
+
 
 **Languages and Tools:** 
 
