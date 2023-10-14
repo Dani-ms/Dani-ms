@@ -3,8 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your title -->
-## Hi, I'm Daniela Moles, a Developer 🚀 .
+## Hi, I'm Daniela Moles, a Frontend Developer 🚀 .
 
 
 
@@ -30,8 +28,7 @@ Here are some ideas to get you started:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on AbleNext;
-- 🌱 I’m currently learning ReactJs; 
+
 - 👯 I’m looking to collaborate on  🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Design;
