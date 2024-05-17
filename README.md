@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniela Santos</h1>
 <h3 align="center">I'm frontend developer , I work with low-code and Java Script Framework</h3>
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Java, React Native**
 
 - 💬 Ask me about **Travel and accessibility**
 
 - ⚡ Fun fact **I have background in Design**
 
-- Outsystems, WebFLow and Adobe Experience Manager
+- Outsystems, ReactJS, NextJS, WebFLow and Adobe Experience Manager
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
